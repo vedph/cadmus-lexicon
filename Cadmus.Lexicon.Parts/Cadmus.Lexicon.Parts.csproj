@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cadmus.Core" Version="2.5.2" />
+    <PackageReference Include="Fusi.Antiquity" Version="1.2.0" />
+  </ItemGroup>
+
+</Project>
